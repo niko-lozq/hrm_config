@@ -10,4 +10,4 @@ spring:
       password: 942255
 mybatis-plus:
   mapper-locations: classpath:com/wgb/hrm/mapper/*Mapper.xml
-  type-aliases-package: com.wgb.hrm.domain,cn.itsource.hrm.query
+  type-aliases-package: com.wgb.hrm.domain,com.wgb.hrm.query
